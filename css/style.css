@@ -3,3 +3,21 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.content{
+    height: 100px;
+    background-color: red;
+}
+
+/* COLORS */
+.bg-dark-blue{
+    background-color: rgb(40, 40, 74);
+}
+
+.bg-aquamarine{
+    background-color: aquamarine;
+}
+
+.bg-blue{
+    background-color: blue;
+}
