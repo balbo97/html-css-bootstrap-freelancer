@@ -21,6 +21,10 @@
     background-color: blue;
 }
 
+.aquamarine{
+    color: aquamarine;
+}
+
 /* MAIN  */
 [alt~="avatar"]{
     width: 8rem;
@@ -28,4 +32,9 @@
 
 img{
     width: 100%;
+}
+
+/* FOOTER  */
+.extra-small{
+    font-size: 10px;
 }
