@@ -8,3 +8,11 @@ Consigli
 È importante non sovrascrivere mai le regole di un framework, tutte le aggiunte vanno fatte con nostre classi scritte nel solito file style.css. Per distinguere le nostre classi possiamo usare un naming diverso da quello utilizzato da Bootstrap, ad esempio inseriamo un prefisso come ms_, oppure utilizziamo _ come divisore tra le parole ad esempio header_top.
 Margini e padding di row e e col non vanno mai modificati, altrimenti la griglia si romperà e non funzionerà più correttamente.
 In allegato, avete tutto il materiale, sia i layouts smartphone, tablet e desktop che le immagini. Ma quest'ultime le utilizzerete lunedì.
+
+Milestone 2
+Utilizzando gli altri strumenti di Bootstrap, i button, i form..., entriamo nel dettaglio del layout del nostro template. La navbar non dovete utilizzarla, fate voi da zero l'header come vi ho suggerito a lezione.
+Consigli
+Guardiamo gli esempi sulla documentazione, copiamo e incolliamo il codice in un nostro file e poi modifichiamo i contenuti per adattarli alle nostre esigenze. Se tutto funziona integriamo il codice nel nostro layout. Mi raccomando: non sovrascrivete le classi di bootstrap, piuttosto fate le vostre classi e applicatele dove vi serve.
+Valutate bene quando vi conviene utilizzare una classe di bootstrap e quando no.
+Per distinguere le nostre classi possiamo usare un naming diverso da quello utilizzato da Bootstrap, ad esempio inseriamo un prefisso come ms_, oppure utilizziamo _ come divisore tra le parole ad esempio header_top.
+Margini e padding di row e e col non vanno mai modificati, altrimenti la griglia si romperà e non funzionerà più correttamente

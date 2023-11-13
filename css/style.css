@@ -5,8 +5,7 @@
 }
 
 .content{
-    height: 100px;
-    background-color: red;
+    
 }
 
 /* COLORS */
@@ -20,4 +19,13 @@
 
 .bg-blue{
     background-color: blue;
+}
+
+/* MAIN  */
+[alt~="avatar"]{
+    width: 8rem;
+}
+
+img{
+    width: 100%;
 }
