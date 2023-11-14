@@ -4,8 +4,11 @@
     box-sizing: border-box;
 }
 
-.content{
-    
+/* UTILITY */
+
+.inline-star{
+    width: 25%;
+    height: 4px;
 }
 
 /* COLORS */
@@ -23,6 +26,15 @@
 
 .aquamarine{
     color: aquamarine;
+}
+
+/* HEADER  */
+header{
+    color: white;
+}
+
+.content-header{
+    height: 75px;
 }
 
 /* MAIN  */
